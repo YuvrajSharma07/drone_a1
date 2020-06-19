@@ -2,7 +2,7 @@
 This repository deals with development of the drone named ```Acharya 1```
 
 ## Chief collaborators
-- Yuvraj sharma
+- Yuvraj Sharma
 - Rikmuksh Kansal
 
 ## Resources
