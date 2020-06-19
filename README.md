@@ -3,7 +3,7 @@ This repository deals with development of the drone named ```Acharya 1```
 
 ## Chief collaborators
 - Yuvraj sharma
-- Rikmuksh Bansal
+- Rikmuksh Kansal
 
 ## Resources
 - [Drone Theory 101: Part 1. The basics, and how an fpv quadcopter functions!](https://www.youtube.com/watch?v=K05UwsiqZ_E&feature=youtu.be)
